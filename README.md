@@ -1,2 +1,2 @@
 # Demystifying-Data-Analytics-Course
-Completed Assignments and Projects for' Demystifying Data Analytics Course' conducted by A.I Lounge
+Completed Assignments and Projects for 'Demystifying Data Analytics Course' conducted by A.I Lounge
